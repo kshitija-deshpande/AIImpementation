@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding">10dp</dimen>
+    <dimen name="toolbar_padding">20dp</dimen>
+    <dimen name="margin_top">5dp</dimen>
+    <dimen name="padding_left">14dp</dimen>
+    <dimen name="toolbar_height">90dp</dimen>
+
+
+
+    <dimen name="bold_bindingtext">80sp</dimen>
+    <dimen name="bold_text">22sp</dimen>
+    <dimen name="normal_text">18sp</dimen>
+
+</resources>
